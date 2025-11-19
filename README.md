@@ -33,7 +33,7 @@ Get in touch:
 
 - **Email:** contact@amarjititservices.com  
 - **Phone:** +91-XXXXXXXXXX  
-- **Website:** [www.amarjititservices.com](https://www.amarjititservices.com)  
+- **Website:** [https://amarjit-it-services.vercel.app/](https://amarjit-it-services.vercel.app/)  
 
 ---
 
