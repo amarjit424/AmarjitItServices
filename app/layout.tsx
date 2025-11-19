@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Amarjit It Services",
-  description: "Create Website Secure Your Future",
+  description: "Technology is best when it brings people together.",
 };
 
 export default function RootLayout({
